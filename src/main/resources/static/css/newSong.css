@@ -1,0 +1,28 @@
+h1{
+	font-size: 100px;
+	text-align: center;
+}
+
+body{
+	background-image: url(https://wallpapertag.com/wallpaper/full/b/f/f/470806-best-cool-music-background-wallpapers-1920x1200.jpg);
+	text-align: center;
+	color: olive;
+}
+div{
+	text-align: left;
+}
+label{
+
+	font-size: 50px;
+}
+input{
+	
+	font-size:35px;
+}
+
+
+a{
+	color: #58faee;
+	font-size: 35px;
+	font-family: sans-serif;
+}
